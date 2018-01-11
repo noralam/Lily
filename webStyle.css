@@ -1,0 +1,31 @@
+.navbar {
+    background-color: #FFFFFF;
+}
+.navbar-default {
+    border: none;
+    font-family: 'Indie Flower', cursive;
+    padding: 10px 0;
+}
+.navbar-brand {
+    font-size: 2.0em;
+    border-right: 1.5px solid #D3D3D3;
+    padding-right: 20px;
+
+}
+body {
+    font-size: 20px;
+    background-image: url("assets/hand.jpg");
+    background-color: lightgrey;
+}
+.brandImg {
+    height: 40px;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+    float: left;
+    margin-right: 10px;
+}
+.white{
+    background-color: #FFFFFF;
+    height: 50px;
+}
+
