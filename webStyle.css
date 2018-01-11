@@ -16,6 +16,7 @@ body {
     font-size: 20px;
     background-image: url("assets/hand.jpg");
     background-color: lightgrey;
+    padding-top:100px;
 }
 .brandImg {
     height: 40px;
